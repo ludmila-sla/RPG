@@ -1,0 +1,13 @@
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\RPG\bin\Debug\netcoreapp3.1\RPG.exe
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\RPG\bin\Debug\netcoreapp3.1\RPG.deps.json
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.json
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.dev.json
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\RPG\bin\Debug\netcoreapp3.1\RPG.dll
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\RPG\bin\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\RPG\obj\Debug\netcoreapp3.1\RPG.csprojAssemblyReference.cache
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfoInputs.cache
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfo.cs
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\RPG\obj\Debug\netcoreapp3.1\RPG.csproj.CoreCompileInputs.cache
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\RPG\obj\Debug\netcoreapp3.1\RPG.dll
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\RPG\obj\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\RPG\obj\Debug\netcoreapp3.1\RPG.genruntimeconfig.cache
